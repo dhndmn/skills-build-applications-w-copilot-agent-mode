@@ -78,6 +78,7 @@ DATABASES = {
         "NAME": "octofit_db",
         "HOST": "localhost",
         "PORT": 27017,
+        "USER": "octofit_user",
     }
 }
 
